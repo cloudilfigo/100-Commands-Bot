@@ -48,4 +48,4 @@ client.on('message', async message => {
     }
 });
 
-client.login(token)
+client.login("ODQ1NjM0NjQwOTcwOTA3Njg4.YKj0oQ.HDMqDh0QZcXtFQXQ0VaFEi6DQrI")
